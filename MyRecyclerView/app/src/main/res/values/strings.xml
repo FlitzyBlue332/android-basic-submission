@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Waifu Saya</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="about_name">Muhammad Raihan Aulia</string>
+    <string name="about_email">raihanaulia332@gmail.com</string>
+    <string name="waifu_birthday">birthday</string>
+    <string-array name="data_name">
+        <item>Aigis</item>
+        <item>Kaela Kovalskia</item>
+        <item>Kiss-Shot Acerola-Orion Heart-Under-Blade</item>
+        <item>Kotone Shiomi</item>
+        <item>Kafka</item>
+        <item>Maika Sakuranomiya</item>
+        <item>Oozora Subaru</item>
+        <item>Rem</item>
+        <item>Schwarz</item>
+        <item>Skadi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Aigis adalah seorang karakter yang berasal dari video game bernama Persona 3. Aigis adalah senjata penakluk Shadow terakhir yang tergabung ke dalam organisasi S.E.E.S. (Specialized Extracurricular Execution Squad) yang ikut bersekolah di SMA Gekkoukan. Walaupun Aigis seorang robot, Ia memiliki emosi yang tidak kalah dengan manusia biasa. Emosi Aigis dapat dibuktikan dengan rasa putus asa yang dirasakan Aigis ketika Makoto tidur selamanya. </item>
+        <item>Kaela Kovalskia adalah seorang penempa besi yang berasal dari agensi Vtuber Hololive. Berdasarkan latar belakang Kaela, ia merupakan seorang murid pandai besi. Kaela sangat handal dalam pekerjaannya sampai ia merasa jenuh dengan kegiatannya. Untuk itu, ia bergabung ke Hololive untuk menantang dirinya. Kaela memiliki beberapa ciri khas yang membuatnya unik. Beberapa diantaranya adalah ia sangat menyukai pare sampai ia mendatangi penjual siomay hanya untuk membeli pare saja dan tertawa tanpa suaranya.</item>
+        <item>Kiss-Shot Acerola-Orion Heart-Under-Blade merupakan sebuah keganjilan berjenis vampir yang sangat terkenal di dunia serial monogatari. Saat ini, Kiss-Shot sudah kehilangan kekuatan dan namanya sehingga sekarang ia dipanggil sebagai Ooshino Shinobu. Sebagai keganjilan vampir, ia membutuhkan darah untuk hidup dan dapat membuat orang lain sebagai pelayannya dengan cara menghisap darah orang tersebut dan membiarkan orang tersebut hidup. Saat ini, ia selalu bersama orang yang dianggap sebagai majikannya yaitu Araragi Koyomi dan menganggap Koyomi sebagai orang terdekatnya.</item>
+        <item>Kotone Shiomi merupakan protagonis wanita dari permainan Persona 3 Portable. Ia merupakan versi lawan dari Makoto Yuki yang merupakan protagonis dari persona 3. Jika pada persona 3 Makoto bersifat penyendiri dan suram, Kotone memiliki sifat periang dan suka bergaul serta menunjukkan berbagai macam emosi. Ia memiliki jiwa yang tangguh layaknya seorang pemimpin. Walaupun begitu, ia selalu menyembunyikan rasa sakit dan penderitaannya agar orang disekitarnya tidak terbebani dan merasa khawatir.</item>
+        <item>Kafka merupakan karakter yang dapat dimainkan dalam permainan video berjudul Honkai: Star Rail. Ia merupakan seseorang yang tenang dan cantik dan tergabung dalam organisasi bernama Stellaron Hunters. Kafka termasuk ke dalam daftar orang yang dicari oleh Interstral Peace Corporation yang merupakan perusahaan multi galaksi yang cukup terkenal. Walaupun perusahaan tersebut merupakan perusahaan yang besar, Mereka tidak dapat menemukan informasi apapun mengenai Kafka selain nama dan hobinya.</item>
+        <item>Maika Sakuranomiya merupakan seorang gadis berumur 16 tahun yang bekerja sebagai seorang maid pada kafe bertema maid. Ciri khas dirinya pada kafe tersebut adalah memiliki tatapan yang sadis ketika ia tersenyum. Meskipun begitu, Sebenarnya Maika merupakan seseorang yang periang dan tatapan sadisnya muncul secara tidak sengaja.</item>
+        <item>Oozora Subaru adalah seorang Youtuber Virtual berbahasa jepang yang tergabung dalam kelompok Hololive dari perusahaan Cover corp. Ia merupakan seseorang yang memiliki sifat tomboi dan percaya diri. Ia memiliki penampilan layaknya seseorang perempuan yang memiliki sifat tomboi seperti menggunakan kaos dan menggunakan celana pendek serta sebuah topi. Ia memulai karirnya sebagai Youtuber Virtual pada tanggal 17 September tahun 2018. Mayoritas pengikut Subaru memanggil Subaru sebagai bebek karena suaranya yang mirip seperti Donald Duck. Walaupun pada awalnya Subaru menolaknya, Ia menyerah dan menerima dirinya disebut bebek.</item>
+        <item>Rem merupakan karakter fiksional dari serial light novel berjudul Re:Zero − Starting Life in Another World. Ia merupakan seorang maid yang bekerja pada Roswaal L Mathers bersama saudari kembar identiknya yaitu Ram. Walaupun pada awalnya ia tidak mempercayai karakter utama cerita tersebut yaitu Subaru, Perlahan lahan ia memiliki rasa terhadap Subaru. Tetapi tidak lama setelah itu, nama dan memori rem dimakan oleh seorang kultus agung yang mengakibatkan tidak ada orang yang mengingat Rem kecuali Subaru dan juga Rem berada dalam keadaan tidak sadar.</item>
+        <item>Schwarz adalah seorang operator yang tergabung dalam Rhodes Island. Sebelumnya, ia merupakan anggota pasukan khusus pemerintah yang menjaga negara Siesta. Schwarz sangat menjaga Ceylon yang dianggap oleh Schwarz sebagai orang yang menyelamatkan dirinya. Sebelum menjadi anggota khusus keamanan Siesta, Schwarz tergabung dalam kelompok tentara bayaran yang melakukan berbagai pekerjaan termasuk pekerjaan yang keji.</item>
+        <item>Skadi merupakan seorang pemburu bayaran yang saat ini bekerja pada Rhodes Island. Ia memiliki kekuatan fisik yang luar biasa serta keahlian bertarung yang sangat bagus. Kekuatan Skadi dibuktikan secara langsung ketika ia mengalahkan makhluk raksasa dan memenangkan peperangan. Sebelum Skadi menjadi seorang pemburu bayaran, ia tergabung ke dalam organisasi bernama Abyssal Hunter yang merupakan organisasi yang dibentuk dengan cara menggabungkan genetik ras Aegir dengan ras Seaborn sebagai senjata anti seaborn. Rekayasa genetik tersebut mengakibatkan Skadi dianggap oleh makhluk seaborn sebagai kawanannya sehingga Skadi dapat melancarkan serangannya tanpa takut diserang balik oleh makhluk tersebut.</item>
+    </string-array>
+    <string-array name="data_birthday">
+        <item>10 September</item>
+        <item>30 Agustus</item>
+        <item>29 Juni</item>
+        <item>Player Defined</item>
+        <item>Unknown</item>
+        <item>4 April</item>
+        <item>2 Juli</item>
+        <item>2 Februari</item>
+        <item>Memory Loss</item>
+        <item>7 Maret</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/megamitensei/images/a/a9/Persona_3_Aigis_5.png</item>
+        <item>https://static.wikia.nocookie.net/virtualyoutuber/images/6/61/Kaela_Kovalskia_Portrait.png</item>
+        <item>https://static.wikia.nocookie.net/bakemonogatari1645/images/0/0d/Kissshot_kabuki.png</item>
+        <item>https://static.wikia.nocookie.net/megamitensei/images/b/b0/FeMC_Protagonist_manga.png</item>
+        <item>https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Character_Kafka_Splash_Art.png</item>
+        <item>https://static.wikia.nocookie.net/blend-s/images/a/a6/Infobox_Maika.jpg</item>
+        <item>https://static.wikia.nocookie.net/virtualyoutuber/images/4/49/Oozora_Subaru_Portrait.png</item>
+        <item>https://static.wikia.nocookie.net/rezero/images/0/02/Rem_Anime.png</item>
+        <item>https://static.wikia.nocookie.net/mrfz/images/d/d8/Schwarz_icon.png</item>
+        <item>https://static.wikia.nocookie.net/mrfz/images/4/4c/Skadi_icon.png</item>
+        <item>https://drive.google.com/file/d/1wPFSqLWZwsnqdAQch-GNJ9hwIvEM46sB/view?usp=sharing</item>
+    </string-array>
+</resources>
